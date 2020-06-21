@@ -1,5 +1,3 @@
-//Yang Xie
-//112719816
 
 
 import java.util.Scanner;
